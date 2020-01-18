@@ -1,11 +1,11 @@
 # Site settings
 author: Romario Gustave
-title: 
+title: CLI Portfolio Project (first)
 header-img: img/home-bg.png
 email: romagustave10@gmail.com
 copyright_name: Romario Gustave
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My first ever cli port folio project
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Roma10boss
