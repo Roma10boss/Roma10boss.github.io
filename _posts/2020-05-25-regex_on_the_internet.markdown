@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Regex on the internet "
-date:       2020-05-25 18:55:14 +0000
+date:       2020-05-25 14:55:15 -0400
 permalink:  regex_on_the_internet
 ---
 
